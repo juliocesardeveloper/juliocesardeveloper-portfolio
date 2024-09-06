@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  /*{ name: "Testimonials", link: "#testimonials" },*/
   { name: "Contact", link: "#contact" },
 ];
 
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently working on extra modules for Mantracks and learning new technologies",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -75,7 +75,7 @@ export const projects = [
     title: "Mantracks - Digital manager for artists",
     des: "Comprehensive platform for artists that simplifies the management of music projects, collaborations, and releases.",
     img: "/p-mantracks.png",
-    iconLists: ["/re.svg", "/ts.svg"],
+    iconLists: ["/re.svg", "/ts.svg", "/mui.svg"],
     link: "https://www.mantracks.app/",
   },
   /*
